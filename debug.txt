@@ -1,0 +1,18 @@
+global_horizontalforcefit is 0.000000
+global_verticalforcefit is 0.000000
+
+
+detecting monitors id 1 (left 0, right 3840, top 0, bottom 2160)
+detecting monitors id 1 (hmonitor: dec 65612, hex 0x0001004C)
+detecting monitors id 2 (left 823, right 2743, top 2160, bottom 3360)
+detecting monitors id 2 (hmonitor: dec 131073, hex 0x00020001)
+detecting monitors id 3 (left -3840, right 0, top 0, bottom 2160)
+detecting monitors id 3 (hmonitor: dec 65683, hex 0x00010093)
+combined global rectangle from all monitors (left -3840, right 3840, top 0, bottom 3360)
+
+detecting the following windows (window classname listing):
+
+
+
+detecting the following windows (window title listing):
+
