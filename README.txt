@@ -20,5 +20,5 @@ requirements.
 Links:
 ======
 
-The AUDIO_SPI web site  . . . . . http://www.oifii.org/ns-org/nsd/ar/cp/audio_spi/
+The AUDIO_SPI web site  . . . . . https://audiospi.com
 Support . . . . . . . . . . https://groups.google.com/forum/#!forum/audio_spi-users
